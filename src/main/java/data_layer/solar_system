@@ -1,0 +1,75 @@
+{
+  "Sun": {
+  "name": "Sun",
+  "info": "The Sun is the star at the center of the Solar System. \\n It is by far the most important source of energy for life on Earth. \\n its mass is about 330,000 times that of Earth, accounting for about 99.86% of the total mass of the Solar System.",
+  "distance": "0",
+  "mass": "332,900 M⊕",
+  "imgPath": "C:\\devl\\Work\\asaf-java-projects\\solar_system_server\\src\\main\\java\\data_layer\\img\\Sun.jpg",
+  "orbitalPeriod": "0",
+  "AveOrbitalSpeed": "0"
+},"Mercury": {
+  "name": "Mercury",
+  "info": "Mercury is the closest planet to the Sun and the smallest planet in the Solar System Mercury's very tenuous atmosphere consists of atoms blasted off its surface by the solar wind.Its relatively large iron core and thin mantle have not yet been adequately explained.",
+  "distance": "0.4",
+  "mass": "0.055 M⊕",
+  "imgPath": "C:\\devl\\Work\\asaf-java-projects\\solar_system_server\\src\\main\\java\\data_layer\\img\\Mercury.jpg",
+  "orbitalPeriod": "0.241 EY",
+  "AveOrbitalSpeed": ""
+},"Venus": {
+  "name": "Venus",
+  "info": "Like Earth,Venus has a thick silicate mantle around an iron core, a substantial atmosphere, and evidence of internal geological activity.  Venus has no natural satellites. It is the hottest planet, with surface temperatures over 400 °C (752 °F)",
+  "distance": "0.7",
+  "mass": "0.815 M⊕",
+  "imgPath": "C:\\devl\\Work\\asaf-java-projects\\solar_system_server\\src\\main\\java\\data_layer\\img\\Venus.jpg",
+  "orbitalPeriod": "0.615 EY",
+  "AveOrbitalSpeed": ""
+},"Earth": {
+  "name": "Earth",
+  "info": "Earth is the only one known to have current geological activity, and the only place where life is known to exist.ts liquid hydrosphere is unique among the terrestrial planets, and it is the only planet where plate tectonics has been observed. ",
+  "distance": "1",
+  "mass": "1 M⊕",
+  "imgPath": "C:\\devl\\Work\\asaf-java-projects\\solar_system_server\\src\\main\\java\\data_layer\\img\\Earth.jpg",
+  "orbitalPeriod": "1 EY",
+  "AveOrbitalSpeed": "29.78 km/s"
+},"Mars": {
+  "name": "Mars",
+  "info": "Its surface, peppered with vast volcanoes, such as Olympus Mons, and rift valleys, such as Valles Marineris, shows geological activity that may have persisted until as recently as 2 million years ago.",
+  "distance": "1.5",
+  "mass": "0.107 M⊕",
+  "imgPath": "C:\\devl\\Work\\asaf-java-projects\\solar_system_server\\src\\main\\java\\data_layer\\img\\Mars.jpg",
+  "orbitalPeriod": "1.881 EY",
+  "AveOrbitalSpeed": ""
+},"Jupiter": {
+  "name": "Jupiter",
+  "info": "is 2.5 times the mass of all the other planets put together. It is composed largely of hydrogen and helium. Jupiter's strong internal heat creates semi-permanent features in its atmosphere, such as cloud bands and the Great Red Spot.",
+  "distance": "5.2",
+  "mass": "318 M⊕",
+  "imgPath": "C:\\devl\\Work\\asaf-java-projects\\solar_system_server\\src\\main\\java\\data_layer\\img\\Jupiter.jpg",
+  "orbitalPeriod": "11.87 EY",
+  "AveOrbitalSpeed": ""
+},"Saturn": {
+  "name": "Saturn",
+  "info": "distinguished by its extensive ring system, has several similarities to Jupiter, such as its atmospheric composition and magnetosphere. Although Saturn has 60% of Jupiter's volume, it is less than a third as massive. Saturn is the only planet of the Solar System that is less dense than water.",
+  "distance": "9.5",
+  "mass": "95 M⊕",
+  "imgPath": "C:\\devl\\Work\\asaf-java-projects\\solar_system_server\\src\\main\\java\\data_layer\\img\\Saturn.jpg",
+  "orbitalPeriod": " 29.45 EY",
+  "AveOrbitalSpeed": ""
+},"Uranus": {
+  "name": "Uranus",
+  "info": " is the lightest of the outer planets. Uniquely among the planets, it orbits the Sun on its side; its axial tilt is over ninety degrees to the ecliptic. ",
+  "distance": "19.2",
+  "mass": "14 M⊕",
+  "imgPath": "C:\\devl\\Work\\asaf-java-projects\\solar_system_server\\src\\main\\java\\data_layer\\img\\Uranus.jpg",
+  "orbitalPeriod": "84.07 EY",
+  "AveOrbitalSpeed": ""
+},"Neptune": {
+  "name": "Neptune",
+  "info": "It radiates more internal heat, but not as much as Jupiter or Saturn.[100] Neptune has 14 known satellites.",
+  "distance": "30.1",
+  "mass": "17 M⊕",
+  "imgPath": "C:\\devl\\Work\\asaf-java-projects\\solar_system_server\\src\\main\\java\\data_layer\\img\\Neptune.jpg",
+  "orbitalPeriod": "164.9 EY",
+  "AveOrbitalSpeed": ""
+}
+}
